@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm a 4th year CogSci major at UCI, and I am also studying computer science!  
+Here is my [Linkedin](https://www.linkedin.com/in/crystal-popeney-8aabbb177/)!
 <!--
 **crystalpop/crystalpop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
